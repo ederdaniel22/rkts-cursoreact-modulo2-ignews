@@ -10,4 +10,8 @@ Utilizando Typescript e tipagens no projeto
 
 Incluir estilos com SAAS
 
+Instalar o pacote react-icons
+
+## yarn add react-icons
+
 ## yarn add sass
