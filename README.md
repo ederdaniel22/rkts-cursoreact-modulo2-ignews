@@ -15,3 +15,7 @@ Instalar o pacote react-icons
 ## yarn add react-icons
 
 ## yarn add sass
+
+Integrar o sistema de pagamentos Stripe
+
+## yarn add stripe
