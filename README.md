@@ -19,3 +19,11 @@ Instalar o pacote react-icons
 Integrar o sistema de pagamentos Stripe
 
 ## yarn add stripe
+
+instalar o Next Auth para fazer autenticações
+
+## yarn add next-auth
+
+Incluir Fauna DB
+
+## yarn add faunadb
